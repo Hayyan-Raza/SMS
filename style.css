@@ -31,8 +31,8 @@ li :hover
 }
 .main-nav
 {
-  
-    
+    background-color: aliceblue;
+    box-shadow:#5c5c5c 4px 14px 20px -10px;
 }
 .navbar
 {
@@ -107,9 +107,9 @@ p{
 {
     height: 5px;
     width: 45px;
-    background: grey;
+    background: rgb(255, 255, 255);
     cursor: pointer;
-    border: 2px solid grey;
+    border: 2px solid rgb(95, 95, 95);
     border-radius: 50px;
     margin-left: 8px;
    box-shadow: 3px 3px 9px 8px rgb(0 0 0 / 42%);
